@@ -1,1 +1,1 @@
-"example.bmdl" "example.obj"
+BMDLConvert "example.bmdl" "example.obj"
